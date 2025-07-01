@@ -1,0 +1,7 @@
+
+Build succeeded: 0 errors, 1 warning
+in file included from src/uvm_pkg.sv:57:
+in file included from src/base/uvm_base.svh:77:
+src/base/uvm_config_db_implementation.svh:375:26: warning: unknown character escape sequence '\.' [-Wunknown-escape-code]
+            separator = "\.(" ;
+                         ^
